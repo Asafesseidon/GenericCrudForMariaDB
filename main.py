@@ -1,9 +1,8 @@
 import mariadb
 
-# Author of extreme and utter excellency: Asafesseidon Sapphire \>_</
+# Author: Asafe Domingues Marcelino
 # Main help: God
 # Subhelper: Gemini to remember syntax and things like which function to call to acces the DB_HOST
-# Muse: Tenochtitlán/ Tenochi
 
 # Informações do Banco
 
